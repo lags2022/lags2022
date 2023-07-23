@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-m0lesu002-lags2022.vercel.app/](https://portfolio-m0lesu002-lags2022.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-lags2022.vercel.app/](https://portfolio-lags2022.vercel.app/)
 
 - 💬 Ask me about **Next JS, React and Graphql.**
 
