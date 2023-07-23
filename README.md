@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Messenger Clone App**
 
-- 🌱 I’m currently learning **Drizzle and React Native.**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-m0lesu002-lags2022.vercel.app/](https://portfolio-m0lesu002-lags2022.vercel.app/)
 
