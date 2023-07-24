@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Luis Angel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">A passionate full stack web developer from Perú.</h3>
 
-<img align="center" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="200px">
+<div align="center" >
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="200px">
+</div>
 
 - 🔭 I’m currently working on **Messenger Clone App**
 
