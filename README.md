@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from Perú.</h3>
 
 <div align="center" >
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="200px">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300px">
 </div>
 
 - 🔭 I’m currently working on **Messenger Clone App**
