@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luis Angel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">A passionate full stack web developer from Perú.</h3>
+<h3 align="center">A passionate full stack developer from Perú.</h3>
 
 <div align="center" >
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300px">
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Messenger Clone App**
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lags2022.vercel.app/](https://portfolio-lags2022.vercel.app/)
 
-- 💬 Ask me about **Next JS, React and Graphql.**
+- 💬 Ask me about **React and React Native.**
 
 - 📫 How to reach me **lguzman.58erb@outlook.com**
 
