@@ -5,9 +5,9 @@
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300px">
 </div>
 
-- 🔭 I’m currently working on **Messenger Clone App**
-
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on a music applicaction **MSync**
+  
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lags2022.vercel.app/](https://portfolio-lags2022.vercel.app/)
 
