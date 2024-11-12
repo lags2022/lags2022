@@ -5,13 +5,13 @@
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300px">
 </div>
 
-- 🔭 I’m currently working on a music applicaction **MSync**
+- 🔭 I’m currently working on a mobile applicaction 
   
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-lags2022.vercel.app/](https://portfolio-lags2022.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-lgdev.vercel.app/](https://portfolio-lgdev.vercel.app/)
 
-- 💬 Ask me about **React and React Native.**
+- 💬 Ask me about **React and Nextjs**
 
 - 📫 How to reach me **lguzman.58erb@outlook.com**
 
